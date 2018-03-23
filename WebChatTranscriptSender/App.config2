@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<configuration>
+  <appSettings>
+    <add key="LogPath" value="*****"/>
+    <add key="ChatHistoryPath" value="*****"/>
+    <add key="OpenLog" value="*****"/>
+    <add key="TimerInterval" value="*****"/>
+    <add key="MailFrom" value="*****"/>
+    <add key="SenderName" value="*****"/>
+    <add key="IsHtmlBody" value="*****"/>
+    <add key="Port" value="*****"/>
+    <add key="Host" value="*****"/>
+    <add key="EnableSSL" value="*****"/>
+    <add key="Subject" value="*****"/>
+    <add key="Body" value="*****"/>
+  </appSettings>
+  <startup>
+    <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.0"/>
+  </startup>
+</configuration>

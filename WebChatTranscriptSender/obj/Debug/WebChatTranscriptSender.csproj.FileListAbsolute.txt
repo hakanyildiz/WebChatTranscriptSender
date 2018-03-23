@@ -1,0 +1,10 @@
+C:\Users\hakke\Desktop\WebChatTranscriptSender\WebChatTranscriptSender\bin\Debug\WebChatTranscriptSender.exe
+C:\Users\hakke\Desktop\WebChatTranscriptSender\WebChatTranscriptSender\bin\Debug\WebChatTranscriptSender.pdb
+C:\Users\hakke\Desktop\WebChatTranscriptSender\WebChatTranscriptSender\bin\Debug\AvayaICSDKClient.dll
+C:\Users\hakke\Desktop\WebChatTranscriptSender\WebChatTranscriptSender\bin\Debug\Com.Avaya.Util.dll
+C:\Users\hakke\Desktop\WebChatTranscriptSender\WebChatTranscriptSender\bin\Debug\Com.Avaya.Util.Messaging.dll
+C:\Users\hakke\Desktop\WebChatTranscriptSender\WebChatTranscriptSender\obj\Debug\WebChatTranscriptSender.ProjectInstaller.resources
+C:\Users\hakke\Desktop\WebChatTranscriptSender\WebChatTranscriptSender\obj\Debug\WebChatTranscriptSender.csproj.GenerateResource.Cache
+C:\Users\hakke\Desktop\WebChatTranscriptSender\WebChatTranscriptSender\obj\Debug\WebChatTranscriptSender.exe
+C:\Users\hakke\Desktop\WebChatTranscriptSender\WebChatTranscriptSender\obj\Debug\WebChatTranscriptSender.pdb
+C:\Users\hakke\Desktop\WebChatTranscriptSender\WebChatTranscriptSender\bin\Debug\WebChatTranscriptSender.exe.config
